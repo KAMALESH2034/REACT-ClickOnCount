@@ -1,0 +1,25 @@
+.clicker{
+    height: 100vh;
+    position: relative;
+    display: flex;
+    padding-top: 8%;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.countN{
+    background-color: rgb(159, 255, 255);
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    padding-top: 17px;
+    position: relative;
+}
+
+.title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold;
+    color: #138d17ec;
+}
