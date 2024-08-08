@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 import Count from './Count'
-import Header from "./header"
+import Header from "./Header"
 import './App.css'
 
 function App() {
